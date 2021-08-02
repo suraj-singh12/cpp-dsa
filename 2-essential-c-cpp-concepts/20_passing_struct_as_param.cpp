@@ -43,7 +43,7 @@ void fun2_by_value(Rectangle2 r2){
        (copied; as the object is copied as it is)
 
        otherwise what happens is whenever we pass an array by value, 
-       then to it is not copied, because for arrays there is no such thing as call by value
+       then too it is not copied, because for arrays there is no such thing as call by value
        arrays are always passed by address
 
        But if there's an array in a structure or a class it will get copied when 

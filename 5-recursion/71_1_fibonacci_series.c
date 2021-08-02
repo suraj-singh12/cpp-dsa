@@ -1,3 +1,6 @@
+// Fibonacci series is a series where every next term is the sum of previous two terms
+// example: 0 1 1 2 3 5 8 13 21 ...
+
 #include <stdio.h>
 
 void fib_itr(int n)
